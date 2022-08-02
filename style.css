@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    font-size: larger;
+  }
+#high-scores {
+    color: purple;
+  }
+
+#time-remaining {
+    color: red;
+}
+#quiz {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 20px;
+}
